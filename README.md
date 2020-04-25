@@ -1,2 +1,4 @@
 # Python_Learning
-A python learning process
+A python learning note
+
+Source from: https://github.com/MorvanZhou
